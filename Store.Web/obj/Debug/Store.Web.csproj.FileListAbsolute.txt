@@ -65,3 +65,8 @@ C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\Syst
 C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\obj\Debug\Store.Web.csprojResolveAssemblyReference.cache
 C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\obj\Debug\Store.Web.dll
 C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\obj\Debug\Store.Web.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\AutoMapper.Net4.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\AutoMapper.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\AutoMapper.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\AutoMapper.xml
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Web\bin\AutoMapper.Net4.pdb

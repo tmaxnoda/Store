@@ -3,6 +3,7 @@ using Autofac.Integration.Mvc;
 using Store.Data.Infrastructure;
 using Store.Data.Repositories;
 using Store.Service;
+using Store.Web.Mapping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,9 @@ namespace Store.Web.App_Start
         public static void Run()
         {
             SetAutofacContainer();
+
+            //Configure AutoMapper
+            AutoMapperConfiguration.Configure();
         }
 
         private static void SetAutofacContainer()
