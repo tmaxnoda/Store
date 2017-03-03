@@ -1,0 +1,11 @@
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Service.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Service.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Data.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Model.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\EntityFramework.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Data.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\Store.Model.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\bin\Debug\EntityFramework.xml
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\obj\Debug\Store.Service.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Service\obj\Debug\Store.Service.pdb

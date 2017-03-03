@@ -1,0 +1,12 @@
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\Store.Data.dll.config
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\Store.Data.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\Store.Data.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\EntityFramework.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\Store.Model.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\Store.Model.pdb
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\EntityFramework.xml
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\obj\Debug\Store.Data.csprojResolveAssemblyReference.cache
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\obj\Debug\Store.Data.dll
+C:\Users\TmaxNoda\Documents\Visual_Studio_2015\Projects\Store\Store.Data\obj\Debug\Store.Data.pdb
